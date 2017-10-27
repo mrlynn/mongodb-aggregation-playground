@@ -1,4 +1,4 @@
-# mongoDBAggWebFeb2015
+# MongoDB Aggregation Playground
 This repository contains the data set and queries used during the February 18, 2015 MongoDB Webinar I presented titled, "Exploring the Aggregation Framework". 
 
 Here is an overview of the files in this repository:
